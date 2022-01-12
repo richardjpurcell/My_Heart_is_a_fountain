@@ -5,6 +5,7 @@
  * Version:   1.0
  * Purpose:   My Heart is a Fountian haloween/nocturne costume
  * Usage:     automatic on arduion UNO
+ * Required:  FastLED.h library
  * Notes:     The code does 4 things, reads a heart monitor,
  *            launches a light sequence based on heart rate,
  *            buzzes a buzzer based on heart rate,
